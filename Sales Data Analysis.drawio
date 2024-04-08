@@ -1,9 +1,85 @@
-<mxfile host="app.diagrams.net" modified="2024-04-08T11:04:27.852Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" version="24.2.2" etag="C4Efwbazz7RhrtnVqd2Y" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-08T11:30:40.385Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="lWQHnOUQJJrMeF559u69" version="24.2.2" type="github">
   <diagram name="Page-1" id="w64lKo8f1JPlfAF9MRgD">
-    <mxGraphModel>
+    <mxGraphModel dx="1002" dy="2769" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="2rQzAVIky0_dfpUCpA0a-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="2rQzAVIky0_dfpUCpA0a-1" target="2rQzAVIky0_dfpUCpA0a-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2rQzAVIky0_dfpUCpA0a-1" value="Start" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="-2140" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="2rQzAVIky0_dfpUCpA0a-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="2rQzAVIky0_dfpUCpA0a-2" target="2rQzAVIky0_dfpUCpA0a-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2rQzAVIky0_dfpUCpA0a-2" value="ZSWOJT02 runs as standard report program" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="-2030" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2rQzAVIky0_dfpUCpA0a-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="2rQzAVIky0_dfpUCpA0a-4" target="2rQzAVIky0_dfpUCpA0a-19">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="425" y="-1830" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2rQzAVIky0_dfpUCpA0a-4" value="Enter Parameters for Company Name, Product&amp;nbsp;&lt;div&gt;ID, Quantity.&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="344" y="-1940" width="162" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2rQzAVIky0_dfpUCpA0a-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="2rQzAVIky0_dfpUCpA0a-6" target="2rQzAVIky0_dfpUCpA0a-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="260" y="-1535" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2rQzAVIky0_dfpUCpA0a-22" value="&lt;span style=&quot;font-size: 12px; text-wrap: wrap; background-color: rgb(251, 251, 251);&quot;&gt;Check MRP&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="2rQzAVIky0_dfpUCpA0a-12">
+          <mxGeometry x="-0.2759" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2rQzAVIky0_dfpUCpA0a-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="2rQzAVIky0_dfpUCpA0a-6" target="2rQzAVIky0_dfpUCpA0a-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="590" y="-1535" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2rQzAVIky0_dfpUCpA0a-23" value="&lt;span style=&quot;font-size: 12px; text-wrap: wrap; background-color: rgb(251, 251, 251);&quot;&gt;Buy Item&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="2rQzAVIky0_dfpUCpA0a-15">
+          <mxGeometry x="-0.2215" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2rQzAVIky0_dfpUCpA0a-6" value="Either&amp;nbsp;&lt;div&gt;&#39;Check MRP&#39;&amp;nbsp;&lt;div&gt;or &#39;Buy Item&#39; radio button&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;is&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;selected&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="-1600" width="130" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="2rQzAVIky0_dfpUCpA0a-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="2rQzAVIky0_dfpUCpA0a-9" target="2rQzAVIky0_dfpUCpA0a-24">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="260" y="-1290" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2rQzAVIky0_dfpUCpA0a-9" value="Display ALV containing details of all items and current quantity" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="-1440" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="2rQzAVIky0_dfpUCpA0a-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="2rQzAVIky0_dfpUCpA0a-10" target="2rQzAVIky0_dfpUCpA0a-24">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="590" y="-1290" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2rQzAVIky0_dfpUCpA0a-10" value="Calculate and show ALV of Discounted Price" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="-1440" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="2rQzAVIky0_dfpUCpA0a-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="2rQzAVIky0_dfpUCpA0a-19" target="2rQzAVIky0_dfpUCpA0a-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2rQzAVIky0_dfpUCpA0a-19" value="Check&amp;nbsp;&lt;div&gt;1. if the Item&amp;nbsp;&lt;/div&gt;&lt;div&gt;Entered is Provided&lt;/div&gt;&lt;div&gt;&amp;nbsp;by the company.&amp;nbsp;&lt;/div&gt;&lt;div&gt;2. Check if quantity entered is&amp;nbsp;&lt;/div&gt;&lt;div&gt;more than 0.&lt;/div&gt;&lt;div&gt;3. If the quantity is&amp;nbsp;&lt;/div&gt;&lt;div&gt;less than or&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;equal&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;to available&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;quantity of&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;that item.&lt;/span&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="-1850" width="210" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="2rQzAVIky0_dfpUCpA0a-24" value="End" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="-1330" width="120" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
