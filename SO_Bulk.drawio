@@ -1,9 +1,82 @@
-<mxfile host="app.diagrams.net" modified="2024-04-10T17:32:32.259Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" version="24.2.2" etag="tu2P39AWYp-UD5kIv_V9" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-10T18:06:54.106Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="0DKOQ4D2nNTu4h6Ogb0y" version="24.2.2" type="github">
   <diagram name="Page-1" id="uBfl38D4r06i1AbhlAde">
-    <mxGraphModel>
+    <mxGraphModel dx="1002" dy="569" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="JuNS-x6AFthRtQ987-oU-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="JuNS-x6AFthRtQ987-oU-1" target="JuNS-x6AFthRtQ987-oU-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JuNS-x6AFthRtQ987-oU-1" value="Start" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="10" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JuNS-x6AFthRtQ987-oU-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="JuNS-x6AFthRtQ987-oU-2" target="JuNS-x6AFthRtQ987-oU-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JuNS-x6AFthRtQ987-oU-16" value="Display Sales Order" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="JuNS-x6AFthRtQ987-oU-6">
+          <mxGeometry x="0.4297" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JuNS-x6AFthRtQ987-oU-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="JuNS-x6AFthRtQ987-oU-2" target="JuNS-x6AFthRtQ987-oU-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JuNS-x6AFthRtQ987-oU-20" value="Create Sales Order" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="JuNS-x6AFthRtQ987-oU-19">
+          <mxGeometry x="0.4945" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JuNS-x6AFthRtQ987-oU-2" value="Select&lt;div&gt;checkbox,&lt;/div&gt;&lt;div&gt;either &#39;Display Sales Order&#39;&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;or &#39;Create&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Sales Order&#39;&lt;/span&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="120" width="130" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="JuNS-x6AFthRtQ987-oU-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="JuNS-x6AFthRtQ987-oU-4" target="JuNS-x6AFthRtQ987-oU-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JuNS-x6AFthRtQ987-oU-4" value="Enter input for &#39;Sales&amp;nbsp;&lt;div&gt;Order Document&#39; to display corresponding header and&amp;nbsp;&lt;div&gt;item details.&lt;/div&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="270" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JuNS-x6AFthRtQ987-oU-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="JuNS-x6AFthRtQ987-oU-8" target="JuNS-x6AFthRtQ987-oU-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JuNS-x6AFthRtQ987-oU-15" value="Application Server" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="JuNS-x6AFthRtQ987-oU-11">
+          <mxGeometry x="0.296" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JuNS-x6AFthRtQ987-oU-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="JuNS-x6AFthRtQ987-oU-8" target="JuNS-x6AFthRtQ987-oU-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JuNS-x6AFthRtQ987-oU-18" value="Presentation Server" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="JuNS-x6AFthRtQ987-oU-13">
+          <mxGeometry x="0.2533" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JuNS-x6AFthRtQ987-oU-8" value="Select&amp;nbsp;&lt;div&gt;checkbox&amp;nbsp;&lt;div&gt;&#39;Application Server&#39; or&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;&#39;Presentation Server&#39; to upload&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;file for Bulk&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Sales&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Order&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Creation&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="270" width="150" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="JuNS-x6AFthRtQ987-oU-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="JuNS-x6AFthRtQ987-oU-9" target="JuNS-x6AFthRtQ987-oU-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JuNS-x6AFthRtQ987-oU-9" value="Enter &#39;.txt&#39;. file name of&amp;nbsp;&lt;div&gt;file uploaded at path &#39;/usr/sap/tmp/&#39; in AL11 or Application Server&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="450" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JuNS-x6AFthRtQ987-oU-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="JuNS-x6AFthRtQ987-oU-10" target="JuNS-x6AFthRtQ987-oU-23">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="755" y="540" />
+              <mxPoint x="618" y="540" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JuNS-x6AFthRtQ987-oU-10" value="Select F4 help to&amp;nbsp;&lt;div&gt;browse &#39;.xlsx&#39; file from Presentation Server.&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="450" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="JuNS-x6AFthRtQ987-oU-21" value="Display First ALV with Header Details and second ALV with Item Details" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="175" y="380" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="JuNS-x6AFthRtQ987-oU-23" value="Display ALV with details of uploaded file" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="570" width="135" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
